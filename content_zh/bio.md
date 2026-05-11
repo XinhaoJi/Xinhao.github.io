@@ -1,5 +1,3 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+我是 [北京大学](https://www.pku.edu.cn/) 本科生，学籍邮箱后缀为 `stu.pku.edu.cn`。论文列表见 [Google Scholar](https://scholar.google.com/citations?user=xMdfwWAAAAAJ&hl=en)。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
-
-我的研究主要关注自然哲学中的数学原理。
+我的研究兴趣包括 **三维视觉**、**具身智能** 与 **空间智能**。

@@ -1,29 +1,25 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Xinhao Ji"
+description = "Undergraduate student at Peking University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "May 11, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+name = "Xinhao Ji"
+title = "Undergraduate Student"
+institution = "Peking University"
+avatar = "/Xinhao_Ji.jpg"
 
 [social]
-# Contact information (leave blank or delete to hide)
-
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+# 如需显示邮箱，请填写完整地址（Scholar 仅显示域名 stu.pku.edu.cn）
+email = "jixinhao@stu.pku.edu.cn"
+location = "Beijing, China"
+location_url = "https://www.google.com/maps/search/Peking+University"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Peking University",
+  "Beijing, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=xMdfwWAAAAAJ&hl=en"
 
 [features]
 # Show a like button on the about page

@@ -1,26 +1,26 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Peking University**, Undergraduate Student, *present*
+- Focus: 3D vision, embodied AI, spatial intelligence
+- Undergraduate advisor: Prof. Dingwen Zhang (张鼎文)
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+## Research Experience
 
-## Experience
+**Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)** — Research Intern  
+*September 2025 – March 2026* · Mentor: Zhihang Zhong (钟志航)
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**PSIBOT** — Research Intern  
+*March 2026 – May 2026* · Advisor: Prof.Yaodong Yang (杨耀东)
+
+**Nanyang Technological University (NTU)** — Research Intern  
+*June 2026 – September 2026* · Advisor: Prof.Ziwei Liu (刘子纬)
+
+## Publications
+
+See the full list with BibTeX on the [Publications](/publications) page or on [Google Scholar](https://scholar.google.com/citations?user=xMdfwWAAAAAJ&hl=en). Representative work includes language-embedded surface Gaussians for scene understanding and Holi-spatial (ICML 2026 Spotlight).
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
-
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Programming:** Python, C/C++
+- **ML / 3D:** PyTorch, 3D vision, Gaussian splatting–style representations
+- **Languages:** English, Chinese

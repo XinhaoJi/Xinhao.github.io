@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an undergraduate student at [Peking University](https://www.pku.edu.cn/). My verified institutional email domain is `stu.pku.edu.cn`. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=xMdfwWAAAAAJ&hl=en).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests include **3D vision**, **embodied AI**, and **spatial intelligence**.
